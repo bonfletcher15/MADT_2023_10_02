@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MADT_2023_10_02</string>
+    <string name="selection_chars">Chars</string>
+    <string name="selection_words">Words</string>
+    <string-array name="selection_options">
+        <item>Words</item>
+        <item>Chars</item>
+    </string-array>
+</resources>
